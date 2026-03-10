@@ -5,6 +5,7 @@ using std::endl;
 
 void xiaoming(){
     puts("Hello, I'm xiaoming!");
+    puts("And I am the most handsome guy in the whole world!");
     return ;
 }
 
