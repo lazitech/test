@@ -20,4 +20,5 @@ void xiaohong(){
 int main(){
     xiaoming();
     xiaohong();
+    return 0;
 }
